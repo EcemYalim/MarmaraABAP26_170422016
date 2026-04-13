@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZC_TCOM_170422016'
+@MappingRole: true
+define role ZC_TCOM_170422016 {
+  grant select on ZC_TCOM_170422016
+  where INHERITING CONDITIONS FROM ENTITY ZR_TCOM_170422016 REPLACING { ROOT WITH _BaseEntity };
+}

@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZTCOM_170422016",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZTCOM_170422016",
+  "sapObjectType": "ZTCOM_170422016",
+  "rootNode": true
+}
